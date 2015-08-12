@@ -31,3 +31,31 @@ Quite some different ingredients can be added to dough either to make a savoury 
 
 
 Enzymes are naturally occurring components of many bakery ingredients. If an enzyme is added, it often is destroyed by the heat of the baking process. In both cases, product designers can obtain the functional benefits of the enzyme while maintaining a "clean label" image for the finished product. Enzymes also are specific to a particular function, eliminating concerns about undesired effects. 
+
+1.7. Gums and hydrocolloids
+
+
+Gums and hydrocolloids are used to create texture. These are substances that are added to foods to emulsify and create interesting mouth feel and diversity in texture. They can be used for shelf life extension of cakes and bread for instance, to control batter consistency, as partial fat replacers etc. This chapter gives an overview of the hydrocolloids used in the bakery industry. If you read carefully the label of your bread improver or your cake's stabilising system you might discover some gums and hydrocolloids in the ingredient declaration.
+
+1.8. Salt and salt reduction
+
+
+Recently there has been quite some pressure on the bakery sector to reduce the salt content in bread, cakes, muffins etc. Salt has a positive effect on taste, microbiological shelf life, rheology of the dough etc. So it is quite a challenge to replace salt, but there are a number of possibilities.
+
+2. The technology 
+We will limit us to the 3 most important phases of the production process. Finally we will take a look at the freezing of dough and parbaked bread.
+
+2.1. Mixing 
+
+
+It cannot be stressed enough that the mixing is the most important stage of the entire process. If you do it wrong, there is no possibility to correct it later. Mixing is the only discontinuous step in an otherwise continuous process. Therefore discipline is required. I know it is not easy to repeat exactly every 12 or 15 minutes exactly the same process however it is necessary and of the utmost importance. Someone who wants to be proud of quality of the product he made, must also be proud of the fact that he is capable of repeating over and over again the same process. And that really is a challenge. 
+
+2.2. Moulding, make-up and proofing 
+
+
+The early use of yeasts for bread making was dependent upon wild yeast cells from the surrounding environment falling into a batch of dough. Such fermentation was highly variable due to the unknown quantity, type of organisms present and the conditions to which the dough was subjected. Eventually it was seen that when a piece of this dough was saved for the next batch, the subsequent dough was more consistent and fermented fasted. Hence, the birth of the starter dough. To leaven bread became an "art" and remained as such for thousands of years. Even today some sours are handled as in generations past. 
+
+2.3. Baking 
+
+
+The final step in bread making is the baking process in which the dough piece is transformed into a light readily digestible and flavourful product under the influence of heat. Within this baking process, the natural structures of the major dough constituents are altered irreversibly by a series of physical, chemical and biochemical interactions. In this chapter the concepts and knowledge of baking processes are discussed.
